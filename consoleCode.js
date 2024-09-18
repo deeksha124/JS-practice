@@ -1,0 +1,8 @@
+console.log(true-1)
+console.log(true+1)
+console.log(true-"1")
+console.log("true"-1)
+console.log("true"-"1")
+console.log(typeof(null))
+console.log(typeof([]))
+console.log(2+2 +"2"+2)
