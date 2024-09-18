@@ -36,5 +36,9 @@ let year = date.getFullYear();
 const myCar = new Car1("Ford", 2014);
 console.log(`My car is a ${myCar.name} and it is ${myCar.age(year)} years old.`);
 
+// ------------------------------------******************************-----------------------------------------
+
+
+
 
 
